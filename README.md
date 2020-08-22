@@ -1,7 +1,7 @@
 # GPA Calculator - Javascript Library
 
 ### How to use via CDN
-Just add it to your website using script src to https://github.com/faatehsultan/gpa-calculator-js.js
+Just add it to your website using script src to https://faatehsultan.github.io/gpa-calculator-js/gpa-calculator-js.js
 
 ### Features
 Follow the steps below use this library.
